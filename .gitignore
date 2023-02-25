@@ -38,6 +38,5 @@ out/
 
 
 ### secrect key
-resources/*.yml
-resources/*.sql
+**/src/main/resources
 
