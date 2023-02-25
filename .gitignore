@@ -38,6 +38,6 @@ out/
 
 
 ### secrect key
-/resources/aplication.yml
-/resources/data.sql
+resources/*.yml
+resources/*.sql
 
